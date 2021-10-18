@@ -1,2 +1,2 @@
-1. Since num1 and num2 where strings, we were simply concatenating the strings num1 and num2 and return the result rather than adding the numeric values of num1 and num2
+1. Since num1 and num2 are strings, we were simply concatenating the strings num1 and num2 and return the result rather than adding the numeric values of num1 and num2
 2. I fixed it by converting num1 and num2 each to an int by calling parseInt on each of them, so that we are actually summing two int's rather than concatenating two strings.
