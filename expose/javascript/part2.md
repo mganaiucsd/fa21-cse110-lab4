@@ -14,7 +14,7 @@ a. student.name \
 b. student['Grad Year'] \
 c. student.greeting() \
 d. student['Favorite Teacher'].name \
-e. student.courseLoad[0] \
+e. student.courseLoad[0] 
 13. \
 a. '32'  since adding string and int just concanetates the int to string \
 b. 1   since when using - operator between int and numeric string it converts string to int and performs subtraction \
